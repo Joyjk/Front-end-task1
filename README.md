@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+###This is a frontend development task using Vue2, Typescript, JavaScript,Vue-Bootstrap, Vuex.
+Thank you.  
