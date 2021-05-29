@@ -26,11 +26,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ### Details
-...
+```
 This is a frontend development task using Vue2, Typescript, JavaScript,Vue-Bootstrap, Vuex.
 In this Project/Task States are managed with Vuex and 
 all designs are made with Vue-Bootstrap. Here I have created
 many Vue components. So that the complexity of the work are reduced.
 
-###Thank you
-```
+### Thank you
+
